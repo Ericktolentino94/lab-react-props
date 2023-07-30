@@ -38,7 +38,7 @@ Pass props through multiple components to build a mockup of a "FundMe"-type webs
 
 1. Deploy this application to Netlify and add the link to your netlify site below:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](https://bright-baklava-a62bf1.netlify.app/)
 
 ## Instructions
 
